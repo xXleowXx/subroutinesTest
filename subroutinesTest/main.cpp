@@ -9,7 +9,7 @@ using namespace std;
 int addNumbers(int, int);
 
 
-void main() 
+int main() 
 {
 	std::cout << addNumbers(3, 8) << endl;
 }
